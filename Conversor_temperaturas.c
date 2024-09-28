@@ -2,7 +2,7 @@
 int main() {
     float temp, cel, fah, kel;
     char escala;
-    
+    printf("Informe a temperatura e a escala (C, K, F)");
     scanf("%f %c", &temp, &escala);
 
     
